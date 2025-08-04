@@ -11,5 +11,10 @@ const caixaResultados = document.querySelector('caixa-Resultado');
 const lista = [ ];
 
 const pergunta = [ 
-    
-];
+    enunciado: "pergunta 1"
+    alternativas: [
+        "Alternativa 1", 
+        "Alternativas 2",
+    ]
+}//fecha pergunta
+]; //fecha lista
